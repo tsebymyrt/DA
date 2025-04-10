@@ -4,4 +4,6 @@ int c = 3
 a = c
 a = a+c
 b = b-c
-print(a,b,c)
+print(a)
+print(b)
+print(c)
